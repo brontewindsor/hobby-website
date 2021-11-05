@@ -340,12 +340,7 @@
 }
 
 .services__card:nth-child(2) {
-  background-image: linear-gradient(
-      to bottom,
-      rgba(0, 0, 0, 0) 0%,
-      rgba(17, 17, 17, 0.6) 100%
-    ),
-    url("/images/brontebali.jpg");
+  background-image: url("https://brontewindsor.github.io/hobby-website/images/brontebali.jpg");
 }
 
 .services h2 {
